@@ -11,5 +11,6 @@ ooA2wPJTCBiKoghYAP4nLqBNIcOIQJSFuaeM5g1SKDwXScWzXyugZ2fbvQSrAw==
 =dagm
 -----END PGP PUBLIC KEY BLOCK-----
 
-fingerprint 
+fingerprint
+
 4aceb08a5f202c48e7b5beeb9c810111f81e9be2
